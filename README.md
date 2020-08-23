@@ -1,4 +1,4 @@
-<img src="https://github.com/Biswajitghosh98/Biswajitghosh98/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
+<img src="https://github.com/Biswajitghosh98/Biswajitghosh98/blob/master/bello.gif" alt="alt text" width="100" height="100" />
 
 ### Hi there 👋 Biswajit Here..
 
